@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineering student at SpringBoard, passionate about developing full-stack applications. With hands-on experience in JavaScript, Python, Flask, Express, React, and PostgreSQL, I enjoy creating innovative solutions that address real-world problems. I thrive on the challenge of learning new technologies and applying them to build efficient and effective applications.
+I'm a software engineering student at Springboard, passionate about developing full-stack applications. With hands-on experience in JavaScript, Python, Flask, Express, React, and PostgreSQL, I enjoy creating innovative solutions that address real-world problems. I thrive on the challenge of learning new technologies and applying them to build efficient and effective applications.
 
 In addition to my technical skills, I value collaboration and enjoy working with others to bring impactful projects to life. I believe that the best solutions come from diverse perspectives and teamwork. I'm always eager to connect with like-minded professionals and explore opportunities to make a positive impact through technology.
